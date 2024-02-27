@@ -1,0 +1,6 @@
+table,th,td,tr{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+
+}
